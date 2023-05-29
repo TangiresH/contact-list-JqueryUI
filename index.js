@@ -8,6 +8,7 @@ const $createContactBtn = $('#createContactBtn')
 const $inputs = $('input');
 let contactList = [];
 
+
 const dialog = $("#dialogForm").dialog({
     autoOpen: false,
     height: 400,
